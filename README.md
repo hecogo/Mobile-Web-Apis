@@ -1,4 +1,4 @@
-Mobile-Web-Apis
-===============
+Web Apis for Mobile
+===================
 
-Demos and Apps of WebApis working
+* Camera api
